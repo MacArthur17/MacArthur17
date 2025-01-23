@@ -43,6 +43,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="javascript logo"  />
   <img width="12" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="javascript logo"  />
+  <img width="12" />
  
 </div>
 
