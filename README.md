@@ -67,7 +67,8 @@
 </div>
 
 <div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2131228)](https://solved.ac/2131228)
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2131228)](https://solved.ac/2131228/)
+<img src="http://mazandi.herokuapp.com/api?handle=2131228&theme=cold"/> 
+
+![2131228's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=2131228)
 </div>
