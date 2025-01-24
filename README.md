@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/한국어-red?style=for-the-badge&logo=English&logoColor=white">
+<img src="https://img.shields.io/badge/English-black?style=for-the-badge&logo=English&logoColor=white">
+<img src="https://img.shields.io/badge/日本語-green?style=for-the-badge&logo=English&logoColor=white">
 
   </div>
 </div>
@@ -49,5 +52,14 @@
 
 <!-- kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+</div>
+
+
+<!-- 자격증 -->
+<div>
+<h3>License</h3>
+<hr>
+- 리눅스마스터 2급 (2024.06.28)
+  
 </div>
 
