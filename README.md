@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=slice&color=38FAD4&text=Welcome)
 
-<div>
 
   <h3> Languages </h3>
   
@@ -33,6 +32,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<br>
 <img src="https://img.shields.io/badge/한국어-red?style=for-the-badge&logo=cesium&logoColor=white">
 <img src="https://img.shields.io/badge/English-black?style=for-the-badge&logo=etsy&logoColor=white">
 <img src="https://img.shields.io/badge/日本語-F7F9FA?style=for-the-badge&logo=postman&logoColor=red">
@@ -66,6 +67,7 @@
 </div>
 
 <div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2131228)](https://solved.ac/2131228)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2131228)](https://solved.ac/2131228)
   
 </div>
