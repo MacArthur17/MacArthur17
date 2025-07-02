@@ -57,6 +57,9 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 </div>
 
+<br>
+* [[pdf]](https://github.com/user-attachments/files/21011152/default.pdf) 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 __*__ <sub><sup>2025</sup></sub>
+</br>
 
 <!-- 자격증 -->
 <div>
