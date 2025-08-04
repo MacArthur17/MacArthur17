@@ -59,6 +59,7 @@
 
 <h3> Achievements </h3>
 <hr>
+2025 Techeer Summer Bootcamp 3등
 
 ### 📄 [Research Publications]
 - **컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가**<sub>2025</sub> 
