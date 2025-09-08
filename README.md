@@ -41,21 +41,6 @@
   </div>
 </div>
 
-<div>
-<h3>Will be..</h3>
-<hr>
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-
- <!-- node.js --> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-
-<!-- react -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
-<!-- kotlin -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-</div>
 
 <h3> Achievements </h3>
 <hr>
