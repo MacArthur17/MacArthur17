@@ -55,7 +55,7 @@
 <hr>
 
 <details>
-  <summary> 집꾸 <sub><sup>2025.06 – 2025.08</sup></sub></summary> <br>
+  <summary> 집꾸 <sub><sup>2025.06. – 2025.08.</sup></sub></summary> <br>
 
   AI 기반 인테리어 스타일 추천 및 가구 매칭 서비스  
 
@@ -67,14 +67,14 @@
 
 
 <details>
-  <summary> 한성길라잡이 <sub><sup>2025.06 – 2025.08</sup></sub></summary> <br>
+  <summary> 한성길라잡이 <sub><sup>2025.07. – 2025.09.</sup></sub></summary> <br>
 
 
   복잡한 트랙제와 졸업요건을 해결해 더 나은 대학생활을 제공하는 서비스
 
-  - [GitHub Organization](https://github.com/2025-team-k-techeer/.github)  
-  - [YouTube Demo](https://www.youtube.com/watch?v=uyt9KrMvWGU)  
-  - [Medium Article](https://medium.com/@jeongjooho1995/%EC%A7%91%EA%BE%B8-8c5691e6a980)  
+  - [GitHub Organization](https://github.com/2025-Engineering-Contest-Team-GRIT/.github)  
+  - [YouTube Demo](https://www.youtube.com/watch?v=IMidmpOfmgI)  
+
 
 </details>
 
@@ -86,9 +86,6 @@
   <strong> TO BE CONTINUED
  &  COMING SOON </strong>
 
-  - [GitHub Organization](https://github.com/2025-team-k-techeer/.github)  
-  - [YouTube Demo](https://www.youtube.com/watch?v=uyt9KrMvWGU)  
-  - [Medium Article](https://medium.com/@jeongjooho1995/%EC%A7%91%EA%BE%B8-8c5691e6a980)  
 
 </details>
 
