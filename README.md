@@ -33,8 +33,8 @@
 
 <h3> Awards & Honors </h3>
 <hr>
-[2025.09.26.] 2025 제 21회 한성공학경진대회 동상 <br>
-[2025.08.02.] 2025 Techeer Summer Bootcamp 3등
+# [2025.09.26.] 2025 제 21회 한성공학경진대회 동상 <br>
+# [2025.08.02.] 2025 Techeer Summer Bootcamp 3등
 
 <h3> Research & Publications </h3>
 <hr>
@@ -47,7 +47,7 @@
 <div>
 <h3>Certifications & Licenses</h3>
 <hr>
-[2024.06.28.] 리눅스마스터 2급 
+# [2024.06.28.] 리눅스마스터 2급 
 
 
 
