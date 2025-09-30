@@ -33,8 +33,8 @@
 
 <h3> Awards & Honors </h3>
 <hr>
-# [2025.09.26.] 2025 제 21회 한성공학경진대회 동상 <br>
-# [2025.08.02.] 2025 Techeer Summer Bootcamp 3등
+- [2025.09.26.] 2025 제 21회 한성공학경진대회 <strong>동상</strong> <br>
+- [2025.08.02.] 2025 Techeer Summer Bootcamp <strong>3등</strong> 
 
 <h3> Research & Publications </h3>
 <hr>
@@ -47,7 +47,7 @@
 <div>
 <h3>Certifications & Licenses</h3>
 <hr>
-# [2024.06.28.] 리눅스마스터 2급 
+- [2024.06.28.] 리눅스마스터 2급 
 
 
 
@@ -105,13 +105,13 @@
 
 <h3> Awards & Honors </h3>
 <hr>
-[2025.08.31.] 제 15회 성북구청장배 마라톤 대회 & 한성마라톤 5KM 남자 준우승 <br>
-[2025.09.23.] 한성대학교 단과대학 연합 체육대회 농구 준우승
+- [2025.08.31.] 제 15회 성북구청장배 마라톤 대회 & 한성마라톤 5KM 남자 <strong>준우승</strong> <br>
+- [2025.09.23.] 한성대학교 단과대학 연합 체육대회 농구 <strong>준우승</strong>
 
 
 <h3> Activities </h3>
 <hr>
-한성대학교 패러글라이딩 동아리 45기 PHONEIX [45기 회장] <br>
+한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
 한성대학교 농구  동아리 UP 부원 <br>
 한성대학교 테니스 동아리 HTM 부원 <br>
 
