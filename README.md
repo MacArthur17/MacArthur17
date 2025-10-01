@@ -33,20 +33,21 @@
 
 <h3> Awards & Honors </h3>
 <hr>
+
 - [2025.09.26.] 2025 제 21회 한성공학경진대회 <strong>동상</strong> <br>
 - [2025.08.02.] 2025 Techeer Summer Bootcamp <strong>3등</strong> 
 
 <h3> Research & Publications </h3>
 <hr>
-[2025.06.] KCI 등재 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가**<sub>2025</sub> 
-  [📑 PDF 보기](https://github.com/user-attachments/files/21011152/default.pdf)
 
+ - [2025.06.]  [KCI 등재] 컴퓨터 스크린 실시간 전송에 대한 실험적 성능 평가 [[pdf]](https://github.com/user-attachments/files/21011152/default.pdf) 
 
 
 <!-- 자격증 -->
 <div>
 <h3>Certifications & Licenses</h3>
 <hr>
+  
 - [2024.06.28.] 리눅스마스터 2급 
 
 
@@ -105,17 +106,21 @@
 
 <h3> Awards & Honors </h3>
 <hr>
+
 - [2025.08.31.] 제 15회 성북구청장배 마라톤 대회 & 한성마라톤 5KM 남자 <strong>준우승</strong> <br>
 - [2025.09.23.] 한성대학교 단과대학 연합 체육대회 농구 <strong>준우승</strong>
 
 
 <h3> Activities </h3>
 <hr>
-한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
-한성대학교 농구  동아리 UP 부원 <br>
-한성대학교 테니스 동아리 HTM 부원 <br>
 
-  
+- 한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
+- 한성대학교 농구  동아리 UP 부원 <br>
+- 한성대학교 테니스 동아리 HTM 부원 <br>
+
+
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2131228)](https://solved.ac/2131228)
 
 </div>
