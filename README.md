@@ -34,8 +34,9 @@
 <h3> Awards & Honors </h3>
 <hr>
 
-- [2025.09.26.] 2025 제 21회 한성공학경진대회 <strong>동상</strong> <br>
-- [2025.08.02.] 2025 Techeer Summer Bootcamp <strong>3등</strong> 
+- [2025.11.28.] 한성 SW중심대학 페스티벌 (75팀 참가)  <strong>장려상</strong> <br>
+- [2025.09.26.] 2025 제 21회 한성공학경진대회 ( 51팀 참가) <strong>동상</strong> <br>
+- [2025.08.02.] 2025 Techeer Summer Bootcamp (11팀 참가) <strong>우수상</strong> 
 
 <h3> Research & Publications </h3>
 <hr>
@@ -56,9 +57,19 @@
 <hr>
 
 <details>
+  <summary> 스톡잇! <sub><sup>2025.09. – 운영중 </sup></sub></summary> <br>
+
+  사용자 맞춤형 주식을 추천해주는 모의투자 서비스 [한성 SW중심대학 페스티벌 장려상]
+
+  - [GitHub Organization](https://github.com/Industry-Academic-SW-Capstone)
+  - [StockIt! Site](https://www.stockit.live/)
+
+</details>
+
+<details>
   <summary> 집꾸 <sub><sup>2025.06. – 2025.08.</sup></sub></summary> <br>
 
-  AI 기반 인테리어 스타일 추천 및 가구 매칭 서비스  
+  AI 기반 인테리어 스타일 추천 및 가구 매칭 서비스  [제 21회 한성공학경진대회 동상]
 
   - [GitHub Organization](https://github.com/2025-team-k-techeer/.github)  
   - [YouTube Demo](https://www.youtube.com/watch?v=uyt9KrMvWGU)  
@@ -70,8 +81,7 @@
 <details>
   <summary> 한성길라잡이 <sub><sup>2025.07. – 2025.09.</sup></sub></summary> <br>
 
-
-  복잡한 트랙제와 졸업요건을 해결해 더 나은 대학생활을 제공하는 서비스
+  복잡한 트랙제와 졸업요건을 해결해 더 나은 대학생활을 제공하는 서비스  [테커 부트캠프 우수상] 
 
   - [GitHub Organization](https://github.com/2025-Engineering-Contest-Team-GRIT/.github)  
   - [YouTube Demo](https://www.youtube.com/watch?v=IMidmpOfmgI)  
@@ -80,15 +90,7 @@
 </details>
 
 
-<details>
-  <summary> 모의투자 <sub><sup>2025.09. – ing </sup></sub></summary> <br>
 
-
-  <strong> TO BE CONTINUED
- &  COMING SOON </strong>
-
-
-</details>
 
 
   
@@ -115,8 +117,7 @@
 <hr>
 
 - 한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
-- 한성대학교 농구  동아리 UP 부원 <br>
-- 한성대학교 테니스 동아리 HTM 부원 <br>
+
 
 
 <br>
