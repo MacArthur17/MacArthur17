@@ -69,7 +69,7 @@
 <details>
   <summary> 집꾸 <sub><sup>2025.06. – 2025.08.</sup></sub></summary> <br>
 
-  AI 기반 인테리어 스타일 추천 및 가구 매칭 서비스  [제 21회 한성공학경진대회 동상]
+  AI 기반 인테리어 스타일 추천 및 가구 매칭 서비스  [테커 부트캠프 우수상] 
 
   - [GitHub Organization](https://github.com/2025-team-k-techeer/.github)  
   - [YouTube Demo](https://www.youtube.com/watch?v=uyt9KrMvWGU)  
@@ -81,7 +81,7 @@
 <details>
   <summary> 한성길라잡이 <sub><sup>2025.07. – 2025.09.</sup></sub></summary> <br>
 
-  복잡한 트랙제와 졸업요건을 해결해 더 나은 대학생활을 제공하는 서비스  [테커 부트캠프 우수상] 
+  복잡한 트랙제와 졸업요건을 해결해 더 나은 대학생활을 제공하는 서비스  [제 21회 한성공학경진대회 동상]
 
   - [GitHub Organization](https://github.com/2025-Engineering-Contest-Team-GRIT/.github)  
   - [YouTube Demo](https://www.youtube.com/watch?v=IMidmpOfmgI)  
@@ -116,6 +116,7 @@
 <h3> Activities </h3>
 <hr>
 
+- 한성대학교 컴퓨터공학부 소모임 POCS <strong>2025년 부회장</strong> <br>
 - 한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
 
 
