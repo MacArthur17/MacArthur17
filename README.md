@@ -33,7 +33,7 @@
 
 <h3> Awards & Honors </h3>
 <hr>
-- [2026.06.16.] 2026 캡스톤디자인 작품발표회 (46팀 참가) <strong>작품 우수상</strong> <br>
+- [2026.06.16.] 2026 캡스톤디자인 작품발표회 (46팀 참가) <strong>작품우수상</strong> <br>
 - [2025.11.28.] 한성 SW중심대학 페스티벌 (75팀 참가) <strong>장려상</strong> <br>
 - [2025.09.26.] 2025 제 21회 한성공학경진대회 ( 51팀 참가) <strong>동상</strong> <br>
 - [2025.08.02.] 2025 Techeer Summer Bootcamp (11팀 참가) <strong>우수상</strong> 
@@ -48,9 +48,9 @@
 <div>
 <h3>Certifications & Licenses</h3>
 <hr>
-  
+
+- [2026.06.19.] 데이터 분석 준전문가(ADsP)  
 - [2024.06.28.] 리눅스마스터 2급 
-- [2026.06.19.] 데이터 분석 준전문가(ADsP)
 
 
 <h3>Projects</h3>
@@ -59,7 +59,7 @@
 <details>
   <summary> 스톡잇! <sub><sup>2025.09. – 운영중 </sup></sub></summary> <br>
 
-  사용자 맞춤형 주식을 추천해주는 모의투자 서비스 <strong>[한성 SW중심대학 페스티벌 장려상]</strong>
+  사용자 맞춤형 주식을 추천해주는 모의투자 서비스 <strong>[한성 SW중심대학 페스티벌 장려상]</strong> <strong>[2026 캡스톤디자인 작품발표회 작품우수상]</strong>
 
   - [GitHub Organization](https://github.com/Industry-Academic-SW-Capstone)
   - [StockIt! Site](https://www.stockit.live/)
