@@ -33,7 +33,7 @@
 
 <h3> Awards & Honors </h3>
 <hr>
-
+- [2026.06.16.] 2026 캡스톤디자인 작품발표회 웹공학 부문 (46팀 참가)  <strong>작품 우수상</strong> <br>
 - [2025.11.28.] 한성 SW중심대학 페스티벌 (75팀 참가)  <strong>장려상</strong> <br>
 - [2025.09.26.] 2025 제 21회 한성공학경진대회 ( 51팀 참가) <strong>동상</strong> <br>
 - [2025.08.02.] 2025 Techeer Summer Bootcamp (11팀 참가) <strong>우수상</strong> 
