@@ -36,19 +36,19 @@
 <details> 
   <summary>[2026.06.16.] 2026 캡스톤디자인 작품발표회 (38팀 참가) <strong>작품우수상</strong> </summary>
   <br>
-<img width="2484" height="3509" alt="캡스톤 우수상_page-0001" src="https://github.com/user-attachments/assets/563ea17c-ab6f-4cea-8083-a373e274366f" />
+<img  width="500" alt="캡스톤 우수상" src="https://github.com/user-attachments/assets/563ea17c-ab6f-4cea-8083-a373e274366f" />
 
 </details>
 <details> 
   <summary>[2025.11.28.] 한성 SW중심대학 페스티벌 (75팀 참가) <strong>장려상</strong> </summary>
   <br>
-<img width="2484" height="3509" alt="sw페스티벌 장려상_page-0001" src="https://github.com/user-attachments/assets/2384e9b2-cf97-42b5-99e2-4aac81631b63" />
+<img  width="500" alt="sw페스티벌 장려상" src="https://github.com/user-attachments/assets/2384e9b2-cf97-42b5-99e2-4aac81631b63" />
 
   </details>
 <details> 
   <summary>[2025.09.26.] 2025 제 21회 한성공학경진대회 ( 51팀 참가) <strong>동상</strong> </summary>
   <br>
-<img width="2484" height="3509" alt="공경진 동상_page-0001" src="https://github.com/user-attachments/assets/cae273e8-93ca-44a4-91a8-00f2736f320d" />
+<img  width="500" alt="공경진 동상" src="https://github.com/user-attachments/assets/cae273e8-93ca-44a4-91a8-00f2736f320d" />
 </details>
 
 <details> 
