@@ -117,25 +117,11 @@
 
 
 
-
-
-
-<h1> Extracurricular Activities </h1>
-
-
-<h3> Awards & Honors </h3>
-<hr>
-
-- [2025.08.31.] 제 15회 성북구청장배 마라톤 대회 & 한성마라톤 5KM 남자 <strong>준우승</strong> <br>
-- [2025.09.23.] 한성대학교 단과대학 연합 체육대회 농구 <strong>준우승</strong>
-
-
 <h3> Activities </h3>
 <hr>
 
 - 한성대학교 컴퓨터공학부 소모임 POCS <strong>2025년 부회장</strong> <br>
 - 한성대학교 패러글라이딩 동아리 45기 PHONEIX <strong>[45기 회장]</strong> <br>
-
 
 
 <br>
